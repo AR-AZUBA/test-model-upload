@@ -1,0 +1,46 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Grid_Magenta
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.094118 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_Magenta.png
+
+newmtl Grid_PB
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.392157 0.392157
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_PB.png
+
+newmtl Grid_Roxo
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.098039 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_Roxo.png
+
+newmtl Grid_Cyan
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.498039 0.650980
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_Cyan.png
+
+newmtl Grid_Amarelo
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.658824 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_Amarelo.png
+
+newmtl Grid_Verde
+Ka 0.000000 0.000000 0.000000
+Kd 0.090196 0.690196 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_Verde.png
+
+newmtl Grid_Vermelho
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.094118 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd Bonnart externo/Grid_Vermelho.png
+
