@@ -1,0 +1,55 @@
+﻿newmtl /FebruceSG17_FebruceSG17
+	map_Kd FebruceSG17_FebruceSG17_D.bmp
+	map_Ks FebruceSG17_FebruceSG17_S.bmp
+	bump FebruceSG17_FebruceSG17_N.bmp
+
+newmtl /FebruceSG11_FebruceSG11
+	map_Kd FebruceSG11_FebruceSG11_D.bmp
+	map_Ks FebruceSG11_FebruceSG11_S.bmp
+	bump FebruceSG11_FebruceSG11_N.bmp
+
+newmtl /FebruceSG16_FebruceSG16
+	map_Kd FebruceSG16_FebruceSG16_D.bmp
+	map_Ks FebruceSG16_FebruceSG16_S.bmp
+	bump FebruceSG16_FebruceSG16_N.bmp
+
+newmtl /FebruceSG18_FebruceSG18
+	map_Kd FebruceSG18_FebruceSG18_D.bmp
+	map_Ks FebruceSG18_FebruceSG18_S.bmp
+	bump FebruceSG18_FebruceSG18_N.bmp
+
+newmtl /FebruceSG19_FebruceSG19
+	map_Kd FebruceSG19_FebruceSG19_D.bmp
+	map_Ks FebruceSG19_FebruceSG19_S.bmp
+	bump FebruceSG19_FebruceSG19_N.bmp
+
+newmtl /FebruceSG20_FebruceSG20
+	map_Kd FebruceSG20_FebruceSG20_D.bmp
+	map_Ks FebruceSG20_FebruceSG20_S.bmp
+	bump FebruceSG20_FebruceSG20_N.bmp
+
+newmtl /FebruceSG14_FebruceSG14
+	map_Kd FebruceSG14_FebruceSG14_D.bmp
+	map_Ks FebruceSG14_FebruceSG14_S.bmp
+	bump FebruceSG14_FebruceSG14_N.bmp
+
+newmtl /FebruceSG13_FebruceSG13
+	map_Kd FebruceSG13_FebruceSG13_D.bmp
+	map_Ks FebruceSG13_FebruceSG13_S.bmp
+	bump FebruceSG13_FebruceSG13_N.bmp
+
+newmtl /FebruceSG15_FebruceSG15
+	map_Kd FebruceSG15_FebruceSG15_D.bmp
+	map_Ks FebruceSG15_FebruceSG15_S.bmp
+	bump FebruceSG15_FebruceSG15_N.bmp
+
+newmtl /FebruceSG22_FebruceSG22
+	map_Kd FebruceSG22_FebruceSG22_D.bmp
+	map_Ks FebruceSG22_FebruceSG22_S.bmp
+	bump FebruceSG22_FebruceSG22_N.bmp
+
+newmtl /FebruceSG21_FebruceSG21
+	map_Kd FebruceSG21_FebruceSG21_D.bmp
+	map_Ks FebruceSG21_FebruceSG21_S.bmp
+	bump FebruceSG21_FebruceSG21_N.bmp
+
