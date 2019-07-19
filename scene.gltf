@@ -945,88 +945,88 @@
   ],
   "images": [
     {
-      "uri": "FebruceSG11_FebruceSG11_diffuse.png"
+      "uri": "textures/FebruceSG11_FebruceSG11_diffuse.png"
     },
     {
-      "uri": "FebruceSG11_FebruceSG11_specularGlossiness.png"
+      "uri": "textures/FebruceSG11_FebruceSG11_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG11_FebruceSG11_normal.png"
+      "uri": "textures/FebruceSG11_FebruceSG11_normal.png"
     },
     {
-      "uri": "FebruceSG13_FebruceSG13_diffuse.png"
+      "uri": "textures/FebruceSG13_FebruceSG13_diffuse.png"
     },
     {
-      "uri": "FebruceSG13_FebruceSG13_specularGlossiness.png"
+      "uri": "textures/FebruceSG13_FebruceSG13_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG13_FebruceSG13_normal.png"
+      "uri": "textures/FebruceSG13_FebruceSG13_normal.png"
     },
     {
-      "uri": "FebruceSG15_FebruceSG15_diffuse.png"
+      "uri": "textures/FebruceSG15_FebruceSG15_diffuse.png"
     },
     {
-      "uri": "FebruceSG15_FebruceSG15_specularGlossiness.png"
+      "uri": "textures/FebruceSG15_FebruceSG15_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG15_FebruceSG15_normal.png"
+      "uri": "textures/FebruceSG15_FebruceSG15_normal.png"
     },
     {
-      "uri": "FebruceSG16_FebruceSG16_diffuse.png"
+      "uri": "textures/FebruceSG16_FebruceSG16_diffuse.png"
     },
     {
-      "uri": "FebruceSG16_FebruceSG16_specularGlossiness.png"
+      "uri": "textures/FebruceSG16_FebruceSG16_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG16_FebruceSG16_normal.png"
+      "uri": "textures/FebruceSG16_FebruceSG16_normal.png"
     },
     {
-      "uri": "FebruceSG17_FebruceSG17_specularGlossiness.png"
+      "uri": "textures/FebruceSG17_FebruceSG17_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG18_FebruceSG18_diffuse.png"
+      "uri": "textures/FebruceSG18_FebruceSG18_diffuse.png"
     },
     {
-      "uri": "FebruceSG18_FebruceSG18_specularGlossiness.png"
+      "uri": "textures/FebruceSG18_FebruceSG18_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG18_FebruceSG18_normal.png"
+      "uri": "textures/FebruceSG18_FebruceSG18_normal.png"
     },
     {
-      "uri": "FebruceSG19_FebruceSG19_diffuse.png"
+      "uri": "textures/FebruceSG19_FebruceSG19_diffuse.png"
     },
     {
-      "uri": "FebruceSG19_FebruceSG19_specularGlossiness.png"
+      "uri": "textures/FebruceSG19_FebruceSG19_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG19_FebruceSG19_normal.png"
+      "uri": "textures/FebruceSG19_FebruceSG19_normal.png"
     },
     {
-      "uri": "FebruceSG20_FebruceSG20_diffuse.png"
+      "uri": "textures/FebruceSG20_FebruceSG20_diffuse.png"
     },
     {
-      "uri": "FebruceSG20_FebruceSG20_specularGlossiness.png"
+      "uri": "textures/FebruceSG20_FebruceSG20_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG20_FebruceSG20_normal.png"
+      "uri": "textures/FebruceSG20_FebruceSG20_normal.png"
     },
     {
-      "uri": "FebruceSG21_FebruceSG21_diffuse.png"
+      "uri": "textures/FebruceSG21_FebruceSG21_diffuse.png"
     },
     {
-      "uri": "FebruceSG21_FebruceSG21_specularGlossiness.png"
+      "uri": "textures/FebruceSG21_FebruceSG21_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG21_FebruceSG21_normal.png"
+      "uri": "textures/FebruceSG21_FebruceSG21_normal.png"
     },
     {
-      "uri": "FebruceSG22_FebruceSG22_diffuse.png"
+      "uri": "textures/FebruceSG22_FebruceSG22_diffuse.png"
     },
     {
-      "uri": "FebruceSG22_FebruceSG22_specularGlossiness.png"
+      "uri": "textures/FebruceSG22_FebruceSG22_specularGlossiness.png"
     },
     {
-      "uri": "FebruceSG22_FebruceSG22_normal.png"
+      "uri": "textures/FebruceSG22_FebruceSG22_normal.png"
     }
   ],
   "materials": [
